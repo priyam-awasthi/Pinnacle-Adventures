@@ -29,6 +29,7 @@ You can play the game here: [Play Pinnacle Adventures on itch.io](https://ultram
 To ensure the best experience, we recommend playing the game in Google Chrome and disabling any content blockers
 
 **Collaborators:**
+- Priyam Awasthi: Lead Programmer / Game Director
 - Eric Liu: Co-developed game logic and level design
 
 
